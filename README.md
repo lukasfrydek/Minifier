@@ -21,7 +21,7 @@ require_once "Minifier.php";
 ```
 and create folder called *cache* in the same directiory.
 
-###Simple scripts and styles
+### Simple scripts and styles
 You can add as many files as you want, either in an array or as a single string.
 ```
  $minifier = new Minifier();     // create new instance of me
